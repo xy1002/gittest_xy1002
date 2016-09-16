@@ -1,7 +1,2 @@
 whatever
 this is gonna go wrong...
-<<<<<<< HEAD
-this is gonna go wrong...
-=======
-lalal
->>>>>>> c87ae8f8cafcade37799b27eba08a332f7f29e74
