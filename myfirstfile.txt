@@ -1,2 +1,3 @@
 whatever_add1
-this is NOT gonna go wron!
+this is NOT gonna go wrong!
+Cool!
